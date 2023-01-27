@@ -1,1 +1,1 @@
-window.location.href = "https://www.youtube.com/watch?v=Jwd853PXnGM&ab_channel=Armapedia";
+window.location.href = "https://www.youtube.com/watch?v=W2dGIAM_B2A";
