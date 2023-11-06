@@ -1,1 +1,1 @@
-window.location.href = "https://www.youtube.com/watch?v=12PdfENWGBk";
+window.location.href = "https://www.youtube.com/playlist?list=PLD1A7959A065290E3";
